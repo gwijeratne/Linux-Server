@@ -25,7 +25,12 @@ The application can be accessed at http://18.216.84.189/catalog/
 	*Created database 'Catalog' and set up the tables using database_setup.py.
 
 
-This application was created using the python Flask framework, PostgreSQL database and Google Oauth2 authentication.
+### This application was created using - 
+* [Python Flask](http://flask.pocoo.org/) - The web framework.
+* [PostgreSQL](https://www.postgresql.org/) - The database.
+* [Google Oauth2](https://developers.google.com/identity/protocols/OAuth2) - The authentication API.
+
+
 
 
 
