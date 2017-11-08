@@ -6,7 +6,7 @@ This is the project for configuring a Linux Server.
 
 The application can be accessed at http://18.216.84.189/catalog/
 
-The software installed for this application are - 
+###The software installed for this application are - 
 	*Apache2
 	*Flask
 	*SQL Alchemy
@@ -15,7 +15,7 @@ The software installed for this application are -
 	*Git
 	
 
-Configurations made - 
+###Configurations made - 
 Disabled remote login as root.
 Disabled password logins.
 Created user 'grader' with sudo access and generated ssh authentication.
