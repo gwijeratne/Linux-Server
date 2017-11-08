@@ -5,6 +5,7 @@ Udacity Project for Linux server
 This is the project for configuring a Linux Server.
 
 The application can be accessed at http://18.216.84.189/catalog/
+the SSH port is 2200.
 
 ### The software installed for this application are - 
 	* Apache2
